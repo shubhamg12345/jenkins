@@ -1,2 +1,1 @@
-FROM ubuntu:18.04
-
+FROM centos:8
